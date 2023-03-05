@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 3f986faa-1c8b-4d69-814f-3a1bbf0dd7ad)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "RFOutput" (shape output) (at 217.17 76.2 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 66511ffd-ba93-4db3-bac0-e0c6a936940b)
+  )
+  (hierarchical_label "RFInput" (shape input) (at 217.17 48.26 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d0a9653f-5485-4a1c-a533-8de3dfd20d86)
+  )
+)
